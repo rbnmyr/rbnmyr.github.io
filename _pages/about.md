@@ -1,56 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+# Background
+I am associate professor of historical linguistics in the [Department of Language and Information Sciences](www.unil.ch/sli) at the [University of Lausanne](www.unil.ch) in Switzerland, where I have been working since 2020. From 2018 until 2020, I worked as the Diebold Research Assistant in Comparative Philology at the [Faculty of Linguistics, Philology and Phonetics](www.ling-phil.ox.ac.uk), and as an Instructor in Ancient Greek and Latin at the [Faculty of Classics](www.classics.ox.ac.uk) of the [University of Oxford](www.ox.ac.uk). There, I was associated with [Wolfson College](www.wolfson.ox.ac.uk) as a Junior Research Fellow, and with [Balliol College](www.balliol.ox.ac.uk), where I was a Lecturer in Latin and Greek language.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I hold an undergraduate degree in Classics and Oriental Studies, and an M.Phil. in General Linguistics and Comparative Philology from Oxford, where I have also completed my doctoral research.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In my doctoral dissertation, I investigated the historic relationship between Classical Armenian and Western Middle Iranian, specifically regarding questions of language contact resulting in pattern replication (“borrowed syntax”). An extended version was published as a [monograph by Oxford University Press in 2023](https://global.oup.com/academic/product/iranian-syntax-in-classical-armenian-9780198851097). I am further interested in relative clause syntax, esp. ‘relative attraction’ and headless relative clauses, as well as morphosyntactic alignment change.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+# Interests
+My general interests include: Iranian comparative and historical linguistics (Avestan, Old Persian, Middle Persian and Parthian), Armenian historical linguistics, Greek and Latin historical linguistics, Indo-European comparative philology, language contact, relative clause syntax, the history of linguistic thought, and historical linguistic mehtodology.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+I have a working knowledge of these languages: Latin, Classical Greek, Classical Armenian, Sanskrit, Old Persian, Avestan, Middle Persian, Parthian, Urartian, and Hurrian; Modern: German, French, Spanish, Turkish, Eastern Armenian, Welsh; and Italian, Dutch, and Russian (basic reading).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Scholarly Engagement
+Between 2016 and 2019, I was Secretary for Student Associates of the [Philological Society](www.philsoc.org.uk), and between 2019 and 2023 I served as a regular member of Council of the Society; I am now Director of Communications and Infrastructure. Between 2018 and 2020, I served as the secretary and interim president of the [Oxford Research Staff Society (OxRSS)](https://oxrss.site.ox.ac.uk/home). Since January 2021, I have also worked at the [_Journal of Indo-European Studies_](https://jies.org/), first as an associate editor and since 2026 as co-editor. I am a member of the editorial board of the [_Language Science Press_](https://langsci-press.org/) series [_Advances in Historical Linguistics_](https://langsci-press.org/catalog/series/ahl), and since 2025 of the [_Publications of the Philological Society_](https://www.openbookpublishers.com/series/2977-845X). Since 2022, I’m an elected member of the Steering committee of the [_Association Internationale des Études Arméniennes_](https://aiearmeniennes.org/). Since 2023, I am the director of the [_Centre de linguistique et des sciences du langage_](www.unil.ch/clsl) at the University of Lausanne. For the period 2025–26, I serve as the head of our department.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I am also a Chartered Linguist, specialising in Language Education, and a Member of the [_Chartered Institute of Linguists_](http://www.ciol.org.uk/).
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
