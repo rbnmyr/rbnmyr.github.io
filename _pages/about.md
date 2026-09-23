@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Background
 I am associate professor of historical linguistics in the [Department of Language and Information Sciences](www.unil.ch/sli) at the [University of Lausanne](www.unil.ch) in Switzerland, where I have been working since 2020. From 2018 until 2020, I worked as the Diebold Research Assistant in Comparative Philology at the [Faculty of Linguistics, Philology and Phonetics](www.ling-phil.ox.ac.uk), and as an Instructor in Ancient Greek and Latin at the [Faculty of Classics](www.classics.ox.ac.uk) of the [University of Oxford](www.ox.ac.uk). There, I was associated with [Wolfson College](www.wolfson.ox.ac.uk) as a Junior Research Fellow, and with [Balliol College](www.balliol.ox.ac.uk), where I was a Lecturer in Latin and Greek language.
 
 I hold an undergraduate degree in Classics and Oriental Studies, and an M.Phil. in General Linguistics and Comparative Philology from Oxford, where I have also completed my doctoral research.
