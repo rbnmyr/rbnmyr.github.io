@@ -1,7 +1,7 @@
 ---
 title: "Remodelling the Historical Morphology of the Classical Armenian _-eal_ participle"
 collection: publications
-category: "journal article"
+category: "manuscripts"
 permalink: /publication/meyer2014a
 excerpt: ""
 date: "2014-01-01"

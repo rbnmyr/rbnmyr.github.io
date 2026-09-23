@@ -1,7 +1,7 @@
 ---
 title: "Armeno-Iranian Structural Interaction: The Case of Parthian wxd, Armenian ink‘n"
 collection: publications
-category: "journal article"
+category: "manuscripts"
 permalink: /publication/Meyer2013b
 excerpt: ""
 date: "2013-01-01"

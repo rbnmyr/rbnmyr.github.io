@@ -1,7 +1,7 @@
 ---
 title: "Morphosyntactic Alignment and the Classical Armenian Periphrastic Perfect"
 collection: publications
-category: "book chapter"
+category: "manuscripts"
 permalink: /publication/Meyer2016
 excerpt: ""
 date: "2016-01-01"

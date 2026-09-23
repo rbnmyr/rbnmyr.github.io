@@ -1,7 +1,7 @@
 ---
 title: "The Question of ‘Classical’ Armenian: Relative Attraction, Wackernagel Clitics and the Rôle of Greek"
 collection: publications
-category: "thesis"
+category: "theses"
 permalink: /publication/Meyer2013
 excerpt: ""
 date: "2013"

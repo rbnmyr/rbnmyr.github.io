@@ -1,7 +1,7 @@
 ---
 title: "Iranian-Armenian language contact in and before the 5th century CE. An investigation into pattern replication and societal multilingualism"
 collection: publications
-category: "theses"
+category: "manuscripts"
 permalink: /publication/Meyer2017
 excerpt: ""
 date: "2017-01-01"
