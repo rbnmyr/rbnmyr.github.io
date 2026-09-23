@@ -2,7 +2,7 @@
 title: "Review of Le Feuvre, Claire (2022) Homer from Z to A. Metrics, Linguistics, and Zenodotus. Brill"
 collection: publications
 category: reviews
-permalink: /publication/Meyer2023MH
+permalink: /publication/Meyer2023c
 excerpt: ""
 date: 2023-12-15
 venue: "Museum Helveticum"

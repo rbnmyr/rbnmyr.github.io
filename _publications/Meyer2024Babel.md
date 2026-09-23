@@ -2,7 +2,7 @@
 title: "Contact and Syntax Change"
 collection: publications
 category: other
-permalink: /publication/Meyer2024Babel
+permalink: /publication/Meyer2024e
 excerpt: ""
 date: 2024-06-03
 venue: "Babel"
