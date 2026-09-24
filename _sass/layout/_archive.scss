@@ -151,7 +151,37 @@
   }
 }
 
+/* Things I have added */
 
+@media (max-width: 600px) {
+  .archive__item-teaser {
+    float: none;
+    width: 100%;
+    height: auto;
+    margin: 0 0 1em 0;
+  }
+
+  .archive__item-teaser img {
+    width: 100%;
+    height: auto;
+  }
+}
+
+.archive__item {
+  position: relative;
+}
+
+.archive__item-teaser {
+  float: left;
+  width: 180px;
+  margin: 0 1.5em 1em 0;
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+}
 /*
    Features
    ========================================================================== */
