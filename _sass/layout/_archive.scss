@@ -173,12 +173,12 @@
 
 .archive__item-teaser {
   float: left;
-  width: 120px;
+  height: 120px;
   margin: 0 1.5em 1em 0;
 
   img {
-    width: 100%;
-    height: auto;
+    height: 100%;
+    width: auto;
     display: block;
   }
 }
