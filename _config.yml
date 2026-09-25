@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-GB"
-site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "blue" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Prof. Dr. Robin Meyer"
 title_separator          : "-"
 name                     : &name "Robin Meyer"
