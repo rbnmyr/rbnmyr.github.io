@@ -2,7 +2,7 @@
 title: "Contact-induced changes in morphosyntax: an introduction"
 collection: publications
 category: manuscripts
-permalink: /publication/nokey-2
+permalink: /publication/MeyerTPhSI
 excerpt: ""
 date: 2023-11-21
 venue: "Transactions of the Philological Society"
