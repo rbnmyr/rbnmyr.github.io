@@ -86,6 +86,8 @@
       <p><a href="{{ post.slidesurl }}">Download</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% elsif post.talk %}
+      <p><a href="{{ site.talk_pdf_path }}{{ post.talk }}.pdf">Download</a></p>
     {% endif %}
 
   </article>
