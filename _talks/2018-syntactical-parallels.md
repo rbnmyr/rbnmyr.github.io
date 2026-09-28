@@ -3,6 +3,7 @@ title: "Syntactical Parallels between Classical Armenian and West Middle Iranian
 collection: talks
 type: "Workshop paper"
 permalink: /talks/2018-syntactical-parallels
+talktag: "2018-syntactical-parallels"
 venue: "New Research in Ancient Armenia"
 date: 2018-06-08
 location: "Geneva"
