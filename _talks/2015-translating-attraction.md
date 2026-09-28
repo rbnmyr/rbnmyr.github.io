@@ -3,6 +3,7 @@ title: "Translating Attraction: Free Relative Clauses in Armenian; Relative Attr
 collection: talks
 type: "Workshop paper"
 permalink: /talks/2015-translating-attraction
+talktag: "2015-translating-attraction"
 venue: "“Insufficient strength to defend its case”: Case attraction and related phenomena"
 date: 2015-09-18
 location: "Wrocław"
