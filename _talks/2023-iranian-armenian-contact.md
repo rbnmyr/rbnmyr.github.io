@@ -3,6 +3,7 @@ title: "Iranian, Armenian, and contact-induced syntactic change: a status quaest
 collection: talks
 type: "Workshop paper"
 permalink: /talks/2023-iranian-armenian-contact
+talktag: "2023-iranian-armenian-contact"
 venue: "First Swiss Workshop on Sociolinguistics, Language Contacts and Historical Linguistics in the Ancient World"
 date: 2023-02-10
 location: "Zurich"
