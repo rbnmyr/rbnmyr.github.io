@@ -12,9 +12,10 @@ author_profile: true
 {% include base_path %}
 
 <div class="publication-nav">
+  Click the following links to jump to the relevant category:<br />
   {% for category in site.publication_category %}
     <a href="#{{ category[1].title | slugify }}">{{ category[1].title }}</a>
-    {% unless forloop.last %} · {% endunless %}
+    {% unless forloop.last %} | {% endunless %}
   {% endfor %}
 </div>
 
