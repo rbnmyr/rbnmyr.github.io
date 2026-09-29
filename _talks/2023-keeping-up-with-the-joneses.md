@@ -3,6 +3,7 @@ title: "Keeping up with the Joneses: Agreement marking and case stacking in Clas
 collection: talks
 type: "Seminar paper"
 permalink: /talks/2023-keeping-up-with-the-joneses
+talktag: "2023-keeping-up-with-the-joneses"
 venue: "Oxford Historical Syntax Seminar"
 date: 2023-11-15
 location: "Oxford"
