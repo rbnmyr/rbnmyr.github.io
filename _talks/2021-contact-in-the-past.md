@@ -8,3 +8,4 @@ venue: "The Philological Society"
 date: 2021-05-07
 location: "online"
 ---
+[Link to the video recording of this talk](https://www.youtube.com/watch?v=mdrI7VMmAKY)

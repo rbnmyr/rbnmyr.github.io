@@ -8,3 +8,4 @@ venue: "34. Deutscher Orientalistentag (WS Language Pedagogy of Modern and Ancie
 date: 2022-09-16
 location: "Berlin"
 ---
+[Link to the Workshop website](https://sites.google.com/view/dot2022-pedagogy/home)

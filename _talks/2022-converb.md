@@ -8,3 +8,4 @@ venue: "DiaCon 2022: Towards a diachronic typology of converbs"
 date: 2022-10-07
 location: "Verona"
 ---
+[Link to the Conference website](https://sites.google.com/view/diacon2022)

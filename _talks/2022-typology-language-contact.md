@@ -8,3 +8,4 @@ venue: "25th International Conference on Historical Linguistics (WS The Typology
 date: 2022-08-02
 location: "Oxford"
 ---
+[Link to the Workshop website](https://sites.google.com/view/ichl25-typology)

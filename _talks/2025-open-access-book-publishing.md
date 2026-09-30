@@ -7,3 +7,4 @@ venue: "Annual Conference of the Association of Learned and Professional Society
 date: 2025-09-11
 location: "Manchester"
 ---
+[Link to recording of the panel discussion](https://www.youtube.com/watch?v=gfiDalCiXwI)
