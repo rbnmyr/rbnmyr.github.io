@@ -7,6 +7,12 @@ redirect_from:
   - /about.html
   - /de/zurperson
   - /de/zurperson.html
+  - /projects
+  - /projects.html
+  - /de/projekte
+  - /de/projekte.html
+  - /fr/projets
+  - /fr/projets.html
 
 ---
 
