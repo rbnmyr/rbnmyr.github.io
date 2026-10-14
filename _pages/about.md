@@ -6,12 +6,16 @@ redirect_from:
   - /about/
   - /about.html
   - /de/zurperson
+  - /de/zurperson/
   - /de/zurperson.html
   - /projects
+  - /projects/
   - /projects.html
   - /de/projekte
+  - /de/projekte/
   - /de/projekte.html
   - /fr/projets
+  - /fr/projets/
   - /fr/projets.html
 
 ---
