@@ -1,7 +1,7 @@
 ---
 title: "Nebenakzent"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/Meyer+2025+Nebenakzent
 excerpt: ""
 date: 2025-01-01
